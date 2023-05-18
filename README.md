@@ -1,2 +1,2 @@
-# Hello-Github
-Testing on how to use github
+# Dicom to Nifti conversion
+
